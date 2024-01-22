@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.idea/
+data/
+commands.txt
+newplot.png
+README.ipynb
+resnet50_09_0.912.h5
