@@ -137,4 +137,4 @@ This API works similar to the local service: you send a POST request in `{"url":
 
 You may test this API by running the script `test_lambda.py`, which sends the URL of `jar.jpg` for the model to classify. Correspondingly, you should see the same output as with the local run:
 
-![lambda_test_screenshot.png](attachment:lambda_test_screenshot.png)
+![Lambda test](lambda_test_screenshot.png)
